@@ -2,3 +2,4 @@ Dependence ---->  Thinkphp Framework
 Tree is an abstract class for unlimited classification(column,category..).
 ====
 Tree 是一个方便的抽象类用来实现无限级分类，依赖于thinkphp框架。
+计划提供一个thinkphp的模版用于前端现实。
