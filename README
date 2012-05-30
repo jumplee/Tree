@@ -1,2 +1,4 @@
 Dependence ---->  Thinkphp Framework 
-Tree is an abstract class for web development!
+Tree is an abstract class for unlimited classification(column,category..).
+====
+Tree 是一个方便的抽象类用来实现无限级分类，依赖于thinkphp框架。
